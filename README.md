@@ -22,6 +22,6 @@ https://enertechups.com/
 
 ## Author
 
-Vaibhav Bhosle
+**Vaibhav Bhosle**  
 Frontend Developer  
 GitHub: @Bhosle1
