@@ -19,3 +19,9 @@
 
 ## Website
 https://enertechups.com/
+
+## Author
+
+Vaibhav Bhosle
+Frontend Developer  
+GitHub: @Bhosle1
